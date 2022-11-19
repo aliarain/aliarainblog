@@ -15,6 +15,7 @@
     "@mdx-js/loader": "^2.1.2",
     "@mdx-js/react": "^2.1.5",
     "@next/mdx": "^12.2.3",
+    "@sanity/cli": "^2.35.0",
     "@tailwindcss/typography": "^0.5.4",
     "autoprefixer": "^10.4.7",
     "clsx": "^1.2.0",

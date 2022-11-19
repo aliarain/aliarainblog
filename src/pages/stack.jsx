@@ -29,23 +29,25 @@ export default function Uses() {
   return (
     <>
       <Head>
-        <title>Uses - Spencer Sharp</title>
+        <title>Tech Stack - Ali Arain</title>
         <meta
           name="description"
-          content="Software I use, gadgets I love, and other things I recommend."
+          content="Tech stack I use to develop digital products."
         />
       </Head>
       <SimpleLayout
-        title="Software I use, gadgets I love, and other things I recommend."
-        intro="I get asked a lot about the things I use to build software, stay productive, or buy to fool myself into thinking I’m being productive when I’m really just procrastinating. Here’s a big list of all of my favorite stuff."
+        title="Tech stack I use to develop digital products."
+        intro="I get asked a lot about the things I use to develop digital products,
+        stay productive, or buy to fool myself into thinking I’m being productive
+        when I’m really just procrastinating. Here’s a big list of all of my favorite
+        things I use."
       >
         <div className="space-y-20">
-          <ToolsSection title="Workstation">
-            <Tool title="16” MacBook Pro, M1 Max, 64GB RAM (2021)">
-              I was using an Intel-based 16” MacBook Pro prior to this and the
-              difference is night and day. I’ve never heard the fans turn on a
-              single time, even under the incredibly heavy loads I put it
-              through with our various launch simulations.
+          <ToolsSection title="Frameworks">
+            <Tool title="Flutter">
+              One of my favourite framework to develop apps with. I have been
+              using Flutter for over 4 years now and it's really productive and
+              fun to develop app with.
             </Tool>
             <Tool title="Apple Pro Display XDR (Standard Glass)">
               The only display on the market if you want something HiDPI and
