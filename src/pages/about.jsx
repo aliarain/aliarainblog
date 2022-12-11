@@ -88,7 +88,7 @@ export default function About() {
               <p>
                 Today, I’m the founder of raptr42, where we’re working on
                 digital products that solve pain problems of the people. We are
-                focused on developing impactful products to help humans with{' '}
+                focused on developing impactful products to help humans with
                 <em>code</em>. As an founder, I'm responsible to watch all the
                 engineering problems of our product get when they are in
                 development and in production. I'm leading all product team of
@@ -96,7 +96,7 @@ export default function About() {
               </p>
               <p>
                 <em>
-                  {' '}
+                
                   I want to make a impact on humanity with code. I'm trying to
                   solve one problem at a time. if you have the same vision as
                   mine then Let's have a chat and discuss and exchange our views
@@ -120,7 +120,7 @@ export default function About() {
                 Follow on LinkedIn
               </SocialLink>
               <SocialLink
-                href="mailto:spencer@planetaria.tech"
+                href="mailto:realaliarain@gmail.com"
                 icon={MailIcon}
                 className="mt-8 border-t border-zinc-100 pt-8 dark:border-zinc-700/40"
               >
