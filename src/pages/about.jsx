@@ -61,7 +61,7 @@ export default function About() {
           </div>
           <div className="lg:order-first lg:row-span-2">
             <h1 className="text-4xl font-bold tracking-tight text-zinc-800 dark:text-zinc-100 sm:text-5xl">
-              I’m Ali Arain. I live in Pakistan, where I'm designing the future.
+              I’m Ali Arain. I live in Pakistan, where Im designing the future.
             </h1>
             <div className="mt-6 space-y-7 text-base text-zinc-600 dark:text-zinc-400">
               <p>
@@ -73,33 +73,32 @@ export default function About() {
               <p>
                 The only thing I loved more than computers as a kid was space
                 and rockets. Back in 2018 , I saw the launch of first falcon
-                heavy and from then I'm a die hard fan of Elon musk and his
-                Companies (Mainly Spacex).From then I'm reading about rocket
+                heavy and from then Im a die hard fan of Elon musk and his
+                Companies (Mainly Spacex).From then Im reading about rocket
                 design and deep space stuff. I love to explore new space
                 Companies working with reusable rockets.
               </p>
               <p>
                 With a hobby of designing rockets, I love to building Artifical
-                Intelligence Models. I'm die hard fan of terminator(i'm not
-                gonna build it xd).The process of building recommandation system
-                or any ai algorithm make me feel so good.On my weekends, I'm
-                mostly busy on watching and building ai algorithms.
+                Intelligence Models. Im die hard fan of terminator(im not gonna
+                build it xd).The process of building recommandation system or
+                any ai algorithm make me feel so good.On my weekends, Im mostly
+                busy on watching and building ai algorithms.
               </p>
               <p>
                 Today, I’m the founder of raptr42, where we’re working on
                 digital products that solve pain problems of the people. We are
                 focused on developing impactful products to help humans with
-                <em>code</em>. As an founder, I'm responsible to watch all the
+                <em>code</em>. As an founder, Im responsible to watch all the
                 engineering problems of our product get when they are in
-                development and in production. I'm leading all product team of
+                development and in production. Im leading all product team of
                 our service based startup.
               </p>
               <p>
                 <em>
-                
-                  I want to make a impact on humanity with code. I'm trying to
+                  I want to make a impact on humanity with code. Im trying to
                   solve one problem at a time. if you have the same vision as
-                  mine then Let's have a chat and discuss and exchange our views
+                  mine then Lets have a chat and discuss and exchange our views
                   on certain topics.
                 </em>
               </p>
