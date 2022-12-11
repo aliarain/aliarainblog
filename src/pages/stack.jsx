@@ -46,7 +46,7 @@ export default function Uses() {
           <ToolsSection title="Frameworks">
             <Tool title="Flutter">
               One of my favourite framework to develop apps with. I have been
-              using Flutter for over 4 years now and it's really productive and
+              using Flutter for over 4 years now and its really productive and
               fun to develop app with.
             </Tool>
             <Tool title="Apple Pro Display XDR (Standard Glass)">
@@ -55,7 +55,7 @@ export default function Uses() {
               pixel you can get counts.
             </Tool>
             <Tool title="IBM Model M SSK Industrial Keyboard">
-              They don’t make keyboards the way they used to. I buy these any
+              They dont make keyboards the way they used to. I buy these any
               time I see them go up for sale and keep them in storage in case I
               need parts or need to retire my main.
             </Tool>
@@ -65,19 +65,19 @@ export default function Uses() {
               powers.
             </Tool>
             <Tool title="Herman Miller Aeron Chair">
-              If I’m going to slouch in the worst ergonomic position imaginable
+              If Im going to slouch in the worst ergonomic position imaginable
               all day, I might as well do it in an expensive chair.
             </Tool>
           </ToolsSection>
           <ToolsSection title="Development tools">
             <Tool title="Sublime Text 4">
-              I don’t care if it’s missing all of the fancy IDE features
-              everyone else relies on, Sublime Text is still the best text
-              editor ever made.
+              I dont care if its missing all of the fancy IDE features everyone
+              else relies on, Sublime Text is still the best text editor ever
+              made.
             </Tool>
             <Tool title="iTerm2">
-              I’m honestly not even sure what features I get with this that
-              aren’t just part of the macOS Terminal but it’s what I use.
+              Im honestly not even sure what features I get with this that
+              aren’t just part of the macOS Terminal but its what I use.
             </Tool>
             <Tool title="TablePlus">
               Great software for working with databases. Has saved me from
@@ -87,20 +87,20 @@ export default function Uses() {
           </ToolsSection>
           <ToolsSection title="Design">
             <Tool title="Figma">
-              We started using Figma as just a design tool but now it’s become
+              We started using Figma as just a design tool but now its become
               our virtual whiteboard for the entire company. Never would have
               expected the collaboration features to be the real hook.
             </Tool>
           </ToolsSection>
           <ToolsSection title="Productivity">
             <Tool title="Alfred">
-              It’s not the newest kid on the block but it’s still the fastest.
-              The Sublime Text of the application launcher world.
+              Its not the newest kid on the block but its still the fastest. The
+              Sublime Text of the application launcher world.
             </Tool>
             <Tool title="Reflect">
               Using a daily notes system instead of trying to keep things
               organized by topics has been super powerful for me. And with
-              Reflect, it’s still easy for me to keep all of that stuff
+              Reflect, its still easy for me to keep all of that stuff
               discoverable by topic even though all of my writing happens in the
               daily note.
             </Tool>
