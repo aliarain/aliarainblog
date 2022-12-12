@@ -61,7 +61,7 @@ export default function About() {
           </div>
           <div className="lg:order-first lg:row-span-2">
             <h1 className="text-4xl font-bold tracking-tight text-zinc-800 dark:text-zinc-100 sm:text-5xl">
-              I’m Ali Arain. I live in Pakistan, where Im designing the future.
+              I’m Ali Arain. I live in Pakistan, where m designing the future.
             </h1>
             <div className="mt-6 space-y-7 text-base text-zinc-600 dark:text-zinc-400">
               <p>
@@ -86,9 +86,10 @@ export default function About() {
                 busy on watching and building ai algorithms.
               </p>
               <p>
-                Today, I’m the founder of raptr42, where we’re working on
-                digital products that solve pain problems of the people. We are
-                focused on developing impactful products to help humans with
+                Today, I’m the founder of{' '}
+                <a href="https://raptr42.com/">raptr42</a>, where we’re working
+                on digital products that solve pain problems of the people. We
+                are focused on developing impactful products to help humans with
                 <em>code</em>. As an founder, Im responsible to watch all the
                 engineering problems of our product get when they are in
                 development and in production. Im leading all product team of
@@ -106,17 +107,39 @@ export default function About() {
           </div>
           <div className="lg:pl-20">
             <ul role="list">
-              <SocialLink href="#" icon={TwitterIcon}>
+              <SocialLink
+                href="https://twitter.com/realaliarain"
+                icon={TwitterIcon}
+              >
                 Follow on Twitter
               </SocialLink>
-              <SocialLink href="#" icon={InstagramIcon} className="mt-4">
+              <SocialLink
+                href="https://instagram.com/realaliarain"
+                icon={InstagramIcon}
+                className="mt-4"
+              >
                 Follow on Instagram
               </SocialLink>
-              <SocialLink href="#" icon={GitHubIcon} className="mt-4">
+              <SocialLink
+                href="https://github.com/aliarain"
+                icon={GitHubIcon}
+                className="mt-4"
+              >
                 Follow on GitHub
               </SocialLink>
-              <SocialLink href="#" icon={LinkedInIcon} className="mt-4">
+              <SocialLink
+                href="https://linkedin.com/in/realaliarain"
+                icon={LinkedInIcon}
+                className="mt-4"
+              >
                 Follow on LinkedIn
+              </SocialLink>
+              <SocialLink
+                href="mailto:aliarain@raptr42.com"
+                icon={MailIcon}
+                className="mt-8 border-t border-zinc-100 pt-8 dark:border-zinc-700/40"
+              >
+                aliarain@raptr42.com
               </SocialLink>
               <SocialLink
                 href="mailto:realaliarain@gmail.com"
