@@ -12,16 +12,18 @@ import logoPlanetaria from '@/images/logos/planetaria.svg'
 const projects = [
   {
     name: 'Ali Arain',
-    description:
-      'Creating technology to empower civilians to explore space on their own terms.',
-    link: { href: 'http://planetaria.tech', label: 'planetaria.tech' },
+    description: 'Created With Next.js, TailwindCSS, Using Sanity as CMS',
+    link: {
+      href: 'http://aliarain.raptr42.com',
+      label: 'aliarain.raptr42.com',
+    },
     logo: logoPlanetaria,
   },
   {
-    name: 'Animaginary',
+    name: 'raptr42',
     description:
-      'High performance web animation library, hand-written in optimized WASM.',
-    link: { href: '#', label: 'github.com' },
+      'Service Based startup website built with passion and hard-work.',
+    link: { href: 'https://raptr42.com/', label: 'raptr42.com' },
     logo: logoAnimaginary,
   },
   {
