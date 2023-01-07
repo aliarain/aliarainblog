@@ -65,42 +65,58 @@ export default function About() {
             </h1>
             <div className="mt-6 space-y-7 text-base text-zinc-600 dark:text-zinc-400">
               <p>
-                I’ve loved making things for as long as I can remember, and
-                wrote my first program when I was 13 years old, just two weeks
-                after my dad brought home the brand new pentium four pc that I
-                taught myself to type on.
+                I am a passionate maker and problem solver from Pakistan. From
+                the moment I received my first computer as a child, I knew that
+                I wanted to spend my life creating and building.
               </p>
               <p>
-                The only thing I loved more than computers as a kid was space
-                and rockets. Back in 2018 , I saw the launch of first falcon
-                heavy and from then Im a die hard fan of Elon musk and his
-                Companies (Mainly Spacex).From then Im reading about rocket
-                design and deep space stuff. I love to explore new space
-                Companies working with reusable rockets.
+                Over the years, my interests have evolved and grown, but one
+                constant has remained – my love for space and rockets. As a
+                young boy, I watched in awe as the Falcon Heavy lifted off for
+                the first time, and since then, I have been a diehard fan of
+                Elon Musk and his companies, particularly SpaceX. I have spent
+                countless hours reading about rocket design and deep space
+                exploration, and I am always excited to learn about new
+                companies working on reusable rockets.
               </p>
               <p>
-                With a hobby of designing rockets, I love to building Artifical
-                Intelligence Models. Im die hard fan of terminator(im not gonna
-                build it xd).The process of building recommandation system or
-                any ai algorithm make me feel so good.On my weekends, Im mostly
-                busy on watching and building ai algorithms.
+                In addition to my love for space, I have also developed a
+                passion for artificial intelligence. The process of building
+                recommendation systems and AI algorithms is endlessly
+                fascinating to me, and I often spend my weekends tinkering with
+                and learning about new AI technologies.
               </p>
               <p>
                 Today, I’m the founder of{' '}
-                <a href="https://raptr42.com/">raptr42</a>, where we’re working
-                on digital products that solve pain problems of the people. We
-                are focused on developing impactful products to help humans with
-                <em>code</em>. As an founder, Im responsible to watch all the
-                engineering problems of our product get when they are in
-                development and in production. Im leading all product team of
-                our service based startup.
+                <a href="https://raptr42.com/">raptr42</a>, a digital product
+                development company focused on creating impactful products that
+                help solve real problems for people. As the leader of our
+                product team, I am responsible for overseeing all aspects of our
+                development process, from ideation to deployment. As the founder
+                of raptr42, I have the opportunity to work with a talented team
+                of developers, designers, and product managers to create
+                innovative solutions for our clients. We are a high-tech startup
+                that is constantly pushing the boundaries of what is possible
+                with technology. Our team is dedicated to delivering top-quality
+                products that not only solve problems, but also delight and
+                engage users. We believe in the power of technology to change
+                the world for the better, and we are committed to using our
+                skills and expertise to make a positive impact. Our process is
+                driven by a focus on collaboration and continuous improvement.
+                We use agile methodologies to ensure that we are delivering the
+                best possible products to our clients, and we are always looking
+                for ways to optimize and streamline our processes. We are
+                passionate about what we do, and we are always looking for new
+                challenges and opportunities to grow and learn. If you share our
+                vision and want to join us on this exciting journey, we would
+                love to hear from you!
               </p>
               <p>
                 <em>
-                  I want to make a impact on humanity with code. Im trying to
-                  solve one problem at a time. if you have the same vision as
-                  mine then Lets have a chat and discuss and exchange our views
-                  on certain topics.
+                  I believe that we can make a real difference in the world
+                  through code, and I am committed to tackling one problem at a
+                  time. If you share this vision and want to chat and exchange
+                  ideas, please dont hesitate to reach
                 </em>
               </p>
             </div>
