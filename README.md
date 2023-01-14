@@ -2,7 +2,7 @@
 
 My Portfolio is built using [Tailwind CSS](https://tailwindcss.com) and [Next.js](https://nextjs.org).
 
-## to use this site as your next as your next template try these steps
+## to use this site as your next template try these steps
 
 To get started with this template, first install the npm dependencies:
 
