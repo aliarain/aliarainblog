@@ -1,7 +1,7 @@
-# Ali Arain Personal Portfolio
+# aliarain personal portfolio site 
+my portfolio is built using [Tailwind CSS](https://tailwindcss.com) and [Next.js](https://nextjs.org).
 
-My Portfolio is built using [Tailwind CSS](https://tailwindcss.com) and [Next.js](https://nextjs.org).
-
+## delete notes folder before using this template
 ## to use this site as your next template try these steps
 
 To get started with this template, first install the npm dependencies:
