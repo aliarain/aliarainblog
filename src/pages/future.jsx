@@ -29,14 +29,11 @@ export default function Uses() {
   return (
     <>
       <Head>
-        <title>Tech Stack - Ali Arain</title>
-        <meta
-          name="description"
-          content="Tech stack I use to develop digital products."
-        />
+        <title>future - aliarain</title>
+        <meta name="description" content="the future i want build." />
       </Head>
       <SimpleLayout
-        title="Tech stack I use to develop digital products."
+        title="the future i'm building and want to build."
         intro="I get asked a lot about the things I use to develop digital products,
         stay productive, or buy to fool myself into thinking I’m being productive
         when I’m really just procrastinating. Here’s a big list of all of my favorite
