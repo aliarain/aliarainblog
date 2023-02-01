@@ -178,7 +178,7 @@ export default function Home({ articles }) {
             I’m the founder of raptr42, where we develop technologies that
             empower regular people to explore space on their own terms.
           </p>
-          <Button href="/about" type="submit" className="ml-4 mt-3 flex-none">
+          <Button href="/about" type="submit" className=" mt-3 flex-none">
             about me
           </Button>
           <Button href="/notes" type="submit" className="ml-4 mt-3 flex-none">
