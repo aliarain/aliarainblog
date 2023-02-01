@@ -33,39 +33,36 @@ export default function Uses() {
         <meta name="description" content="the future i want build." />
       </Head>
       <SimpleLayout
-        title="the future i'm building and want to build."
-        intro="I get asked a lot about the things I use to develop digital products,
-        stay productive, or buy to fool myself into thinking I’m being productive
-        when I’m really just procrastinating. Here’s a big list of all of my favorite
-        things I use."
+        title="the future i'm building."
+        intro="this pages is a list of things i'm currently building or have a plan to build a them.
+        most of my future startups will be backed generative machine learning models."
       >
         <div className="space-y-20">
-          <ToolsSection title="Frameworks">
-            <Tool title="Flutter">
-              One of my favourite framework to develop apps with. I have been
-              using Flutter for over 4 years now and its really productive and
-              fun to develop app with.
-            </Tool>
-            <Tool title="Apple Pro Display XDR (Standard Glass)">
-              The only display on the market if you want something HiDPI and
-              bigger than 27”. When you’re working at planetary scale, every
-              pixel you can get counts.
-            </Tool>
-            <Tool title="IBM Model M SSK Industrial Keyboard">
-              They dont make keyboards the way they used to. I buy these any
-              time I see them go up for sale and keep them in storage in case I
-              need parts or need to retire my main.
-            </Tool>
-            <Tool title="Apple Magic Trackpad">
-              Something about all the gestures makes me feel like a wizard with
-              special powers. I really like feeling like a wizard with special
-              powers.
-            </Tool>
-            <Tool title="Herman Miller Aeron Chair">
-              If Im going to slouch in the worst ergonomic position imaginable
-              all day, I might as well do it in an expensive chair.
-            </Tool>
-          </ToolsSection>
+          <Tool title="Flutter">
+            One of my favourite framework to develop apps with. I have been
+            using Flutter for over 4 years now and its really productive and fun
+            to develop app with.
+          </Tool>
+          <Tool title="Apple Pro Display XDR (Standard Glass)">
+            The only display on the market if you want something HiDPI and
+            bigger than 27”. When you’re working at planetary scale, every pixel
+            you can get counts.
+          </Tool>
+          <Tool title="IBM Model M SSK Industrial Keyboard">
+            They dont make keyboards the way they used to. I buy these any time
+            I see them go up for sale and keep them in storage in case I need
+            parts or need to retire my main.
+          </Tool>
+          <Tool title="Apple Magic Trackpad">
+            Something about all the gestures makes me feel like a wizard with
+            special powers. I really like feeling like a wizard with special
+            powers.
+          </Tool>
+          <Tool title="Herman Miller Aeron Chair">
+            If Im going to slouch in the worst ergonomic position imaginable all
+            day, I might as well do it in an expensive chair.
+          </Tool>
+
           <ToolsSection title="Development tools">
             <Tool title="Sublime Text 4">
               I dont care if its missing all of the fancy IDE features everyone
