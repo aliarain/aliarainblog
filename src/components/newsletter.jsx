@@ -1,6 +1,6 @@
 import { MailIcon } from '@/icons/icons'
 import { Button } from './Button'
-function Newsletter() {
+export function Newsletter() {
   return (
     <form
       action="/thank-you"
