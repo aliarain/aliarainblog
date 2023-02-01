@@ -1,4 +1,5 @@
 import Image from 'next/image'
+import { image1, image2, image3, image4, image5 } from '@/images/photos'
 export function Photos() {
   let rotations = ['rotate-2', '-rotate-2', 'rotate-2', 'rotate-2', '-rotate-2']
 

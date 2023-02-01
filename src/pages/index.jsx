@@ -62,7 +62,7 @@ export default function Home({ articles }) {
             I’m the founder of raptr42, where we develop technologies that
             empower regular people to explore space on their own terms.
           </p>
-          <Button />
+          <Button type=""> </Button>
           <div className="mt-6 flex gap-6">
             <SocialLink
               href="https://twitter.com/realaliarain"
