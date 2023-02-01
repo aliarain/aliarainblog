@@ -87,9 +87,7 @@ function ArrowDownIcon(props) {
 function Article({ article }) {
   return (
     <Card as="article">
-      <Card.Title href={`/notes/${article.slug}`}>
-        {article.title}
-      </Card.Title>
+      <Card.Title href={`/notes/${article.slug}`}>{article.title}</Card.Title>
       <Card.Eyebrow as="time" dateTime={article.date} decorate>
         {formatDate(article.date)}
       </Card.Eyebrow>
@@ -138,6 +136,16 @@ function Newsletter() {
 
 function Resume() {
   let resume = [
+    {
+      company: 'raptr42',
+      title: 'Full Stack Developer',
+      logo: logoPlanetaria,
+      start: '2022',
+      end: {
+        label: 'Present',
+        dateTime: new Date().getFullYear(),
+      },
+    },
     {
       company: 'Upwork',
       title: 'Full Stack Developer',
