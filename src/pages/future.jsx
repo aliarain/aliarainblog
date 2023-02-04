@@ -43,14 +43,20 @@ export default function Uses() {
           <Tool title="raptr42">
             at raptr, we are developing next-gen products for our clients.{' '}
             <br /> we are building their mvp and making sure it works easy to
-            use it for the public and have a clear user experience. <br />
+            use it for the public and have a clear user experience.
+            <br />
+            <br />
             <Button href="https://raptr42.com">find more about us</Button>{' '}
           </Tool>
           <Tool title="using ai to build better tools">
-            this is my main focus after raptr42, im building useful tools to
+            this is my main focus after raptr42, im building useful tools to{' '}
+            <br />
             make the world of programming more easy to every other person by
-            building no-code tools and low code tools. i wrote a small blog post
+            building no-code tools and low code tools. i wrote a small blog post{' '}
+            <br />
             for this you can read ere to get insights of what im building.
+            <br />
+            <br />
             <Button href="https://aliarain.raptr42.com/notes/changing-world-with-ai">
               read my note
             </Button>{' '}
