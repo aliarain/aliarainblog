@@ -49,12 +49,10 @@ export default function Uses() {
             <Button href="https://raptr42.com">find more about us</Button>{' '}
           </Tool>
           <Tool title="using ai to build better tools">
-            this is my main focus after raptr42, im building useful tools to{' '}
-            <br />
-            make the world of programming more easy to every other person by
-            building no-code tools and low code tools. i wrote a small blog post{' '}
-            <br />
-            for this you can read ere to get insights of what im building.
+            this is my main focus after raptr42, making the world of programming
+            more easy to every other entrepreneur by building no-code tools and
+            low code tools. i wrote a small blog post <br />
+            for this you can read here to get insights of what im building.
             <br />
             <br />
             <Button href="https://aliarain.raptr42.com/notes/changing-world-with-ai">
