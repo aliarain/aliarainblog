@@ -54,10 +54,19 @@ export default function Uses() {
             </Link>{' '}
           </Tool>
           <Tool title="using ai to build better tools">
-            this is my main focus after raptr42, making the world of programming
-            more easy to every other entrepreneur by building no-code tools and
-            low code tools. i wrote a small blog post <br />
-            for this you can read here to get insights of what im building.
+            i think theres a real possibility that basically every application{' '}
+            <br />
+            category gets upended in the next five years highlights the
+            potential impact of artificial intelligence (AI) on the software
+            <br />
+            development industry. The integration of AI in software development
+            could lead to a major shift in the way applications are built and
+            <br />
+            used, with a potential change in the traditional model of software
+            development. The introduction of AI may result in more efficient and
+            <br />
+            effective applications and provide new opportunities and challenges
+            for those in the tech industry.
             <br />
             <br />
             <Link
