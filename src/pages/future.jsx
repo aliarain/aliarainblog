@@ -46,7 +46,12 @@ export default function Uses() {
             use it for the public and have a clear user experience.
             <br />
             <br />
-            <Link href="https://raptr42.com">find more about us</Link>{' '}
+            <Link
+              className="no-underline hover:underline"
+              href="https://raptr42.com"
+            >
+              find more about us
+            </Link>{' '}
           </Tool>
           <Tool title="using ai to build better tools">
             this is my main focus after raptr42, making the world of programming
@@ -55,9 +60,12 @@ export default function Uses() {
             for this you can read here to get insights of what im building.
             <br />
             <br />
-            <Button href="https://aliarain.raptr42.com/notes/changing-world-with-ai">
+            <Link
+              className="no-underline hover:underline"
+              href="https://aliarain.raptr42.com/notes/changing-world-with-ai"
+            >
               read my note
-            </Button>{' '}
+            </Link>{' '}
           </Tool>
           <Tool title="LLM">
             Future of software is working with large language models (LLM) and
