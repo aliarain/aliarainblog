@@ -43,22 +43,16 @@ export default function Uses() {
           <Tool title="raptr42">
             At raptr42, im inspired by the potential of technology to change the
             world for the better. Our founder was captivated by the story of{' '}
-            <br />
             SpaceX and its founder Elon Musk, who had a vision to make humanity
             a multi-planetary species. This vision of exploring and developing
-            <br />
             new frontiers in technology inspired our founder to focus on
             building AI-first products that will shape the future. We believe
-            <br />
             that AI has the power to revolutionize our world, just as the
             internet did in the past. im dedicated to building cutting-edge
-            <br />
             digital products that harness the power of AI to solve real problems
             and make a positive impact on society. Our team of experts is
-            <br />
             passionate about innovation and committed to helping our clients
             bring their ideas to life, from ideation to deployment. im on a
-            <br />
             mission to build a better future through technology, and im always
             looking for new partners and investors to join us on this journey.
             <br />
@@ -72,16 +66,12 @@ export default function Uses() {
           </Tool>
           <Tool title="using ai to build better tools">
             i think theres a real possibility that basically every application{' '}
-            <br />
             category gets upended in the next five years highlights the
             potential impact of artificial intelligence (AI) on the software
-            <br />
             development industry. The integration of AI in software development
             could lead to a major shift in the way applications are built and
-            <br />
             used, with a potential change in the traditional model of software
             development. The introduction of AI may result in more efficient and
-            <br />
             effective applications and provide new opportunities and challenges
             for those in the tech industry.
             <br />
@@ -96,59 +86,41 @@ export default function Uses() {
           <Tool title="Large Language models">
             Large Language models, theyre the future of technology. Theyre gonna
             change the game, just like Elon did with Tesla and SpaceX. You see,
-            <br />
             with language models, were not just talking about a new tool, were
             talking about a whole new level of innovation. They have the ability
-            <br />
             to generate high-quality text, music, and code, faster and more
             efficiently than ever before. This is going to revolutionize the way
-            <br />
             we design and build everything from software to images, videos, and
             other forms of media. Think about it, with language models, we can
-            <br />
             generate custom code or design a new product in a fraction of the
             time it would normally take. Thats the kind of efficiency and
-            <br />
             innovation that were talking about. Were not just automating routine
             tasks, were enabling entirely new ways of designing and building
-            <br />
             things. And you know, Im always about disrupting industries and
             pushing the boundaries of whats possible. Thats what language models
-            <br />
             are doing right now. They represent a paradigm shift in the way we
             think about and interact with technology. And the possibilities,
-            <br />
             theyre truly endless. So buckle up, folks. Language models are just
-            <br />
             getting started and the future is looking brighter than ever.
           </Tool>
           <Tool title="LiftOff">
             LiftOff is the game-changer for building web and mobile
             applications. With its cutting-edge generative artificial
-            <br />
             intelligence technology, its revolutionizing the way developers
             work. Say goodbye to the days of having to hire a team of developers
-            <br />
             and spend months working on a single project. LiftOff streamlines
             the development process and helps you launch your product faster and
-            <br />
             more efficiently. With its simple tools, you can now create
             high-quality apps without the need for extensive coding knowledge.
-            <br />
             Whether youre a solo entrepreneur or a startup team, LiftOff
             empowers you to bring your ideas to life with ease. But thats not
-            <br />
             all, LiftOffs AI-powered technology also helps you create more
             advanced and unique apps. Say goodbye to generic designs and boring
-            <br />
             interfaces. With LiftOff, you can create apps that stand out and
             provide a unique and engaging user experience. In conclusion,
-            <br />
             LiftOff is a must-have tool for anyone looking to build web and
             mobile apps. With its ease of use and time-saving capabilities, its
-            <br />
             the perfect solution for anyone who wants to bring their product to
-            <br />
             market faster and more efficiently.
           </Tool>
         </div>
