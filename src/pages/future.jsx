@@ -51,7 +51,7 @@ export default function Uses() {
             make the world of programming more easy to every other person by
             building no-code tools and low code tools. i wrote a small blog post
             for this you can read ere to get insights of what im building.
-            <Button href="https://aliarain.raptr42.com/notes">
+            <Button href="https://aliarain.raptr42.com/notes/changing-world-with-ai">
               read my note
             </Button>{' '}
           </Tool>
