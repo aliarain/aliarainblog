@@ -4,6 +4,7 @@ import { Card } from '@/components/Card'
 import { Section } from '@/components/Section'
 import { SimpleLayout } from '@/components/SimpleLayout'
 import Link from 'next/link'
+import { Button } from '@/components/Button'
 
 function ToolsSection({ children, ...props }) {
   return (
@@ -42,7 +43,8 @@ export default function Uses() {
           <Tool title="raptr42">
             at raptr, we are developing next-gen products for our clients.{' '}
             <br /> we are building their mvp and making sure it works easy to
-            use it for the public and have a clear user experience.{' '}
+            use it for the public and have a clear user experience.
+            <Button href="https://raptr42.com">find more about us</Button>{' '}
             <Link className="underline" href="https://raptr42.com">
               {' '}
               find more about us
