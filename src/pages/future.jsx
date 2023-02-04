@@ -3,6 +3,7 @@ import Image from 'next/image'
 import { Card } from '@/components/Card'
 import { Section } from '@/components/Section'
 import { SimpleLayout } from '@/components/SimpleLayout'
+import Link from 'next/link'
 
 function ToolsSection({ children, ...props }) {
   return (
@@ -38,31 +39,23 @@ export default function Uses() {
         most of my future startups will be backed by open source generative machine learning models."
       >
         <div className="space-y-20">
+          <Tool title="raptr42">
+            at raptr, we are developing next-gen products for our clients. we
+            are building their mvp and making sure it works easy to use it for
+            the public and have a clear user experience.{' '}
+            <Link href="https://raptr42.com"> find more about us</Link>
+          </Tool>
           <Tool title="LLM">
             Future of software is working with large language models (LLM) and
             making sure the end-user uses it safely and model solve their. Such
             as developing a custom model on stable diffusion to automate the
-            products images or building a model which generates codes or whole
-            app in from just one prompt.
+            products images.
           </Tool>
-          <Tool title="Apple Pro Display XDR (Standard Glass)">
-            The only display on the market if you want something HiDPI and
-            bigger than 27”. When you’re working at planetary scale, every pixel
-            you can get counts.
-          </Tool>
-          <Tool title="IBM Model M SSK Industrial Keyboard">
-            They dont make keyboards the way they used to. I buy these any time
-            I see them go up for sale and keep them in storage in case I need
-            parts or need to retire my main.
-          </Tool>
-          <Tool title="Apple Magic Trackpad">
-            Something about all the gestures makes me feel like a wizard with
-            special powers. I really like feeling like a wizard with special
-            powers.
-          </Tool>
-          <Tool title="Herman Miller Aeron Chair">
-            If Im going to slouch in the worst ergonomic position imaginable all
-            day, I might as well do it in an expensive chair.
+          <Tool title=""></Tool>
+          <Tool title="LiftOff">
+            the simple tools to build web/mobile apps faster with generative
+            artificial intelligence. No need to have tons of developer working
+            on a single project.LiftOff your product more faster with AI.
           </Tool>
         </div>
       </SimpleLayout>
