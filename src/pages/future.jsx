@@ -38,7 +38,7 @@ export default function Uses() {
         intro="this pages is a list of things i'm currently building or have a plan to build a them.
         most of my future startups will be backed by open source generative machine learning models."
       >
-        <div className="space-y-20">
+        <div className="space-y-10">
           <Tool title="raptr42">
             at raptr, we are developing next-gen products for our clients. we
             are building their mvp and making sure it works easy to use it for
