@@ -41,9 +41,26 @@ export default function Uses() {
       >
         <div className="space-y-10">
           <Tool title="raptr42">
-            at raptr, we are developing next-gen products for our clients.{' '}
-            <br /> we are building their mvp and making sure it works easy to
-            use it for the public and have a clear user experience.
+            At raptr42, im inspired by the potential of technology to change the
+            world for the better. Our founder was captivated by the story of{' '}
+            <br />
+            SpaceX and its founder Elon Musk, who had a vision to make humanity
+            a multi-planetary species. This vision of exploring and developing
+            <br />
+            new frontiers in technology inspired our founder to focus on
+            building AI-first products that will shape the future. We believe
+            <br />
+            that AI has the power to revolutionize our world, just as the
+            internet did in the past. im dedicated to building cutting-edge
+            <br />
+            digital products that harness the power of AI to solve real problems
+            and make a positive impact on society. Our team of experts is
+            <br />
+            passionate about innovation and committed to helping our clients
+            bring their ideas to life, from ideation to deployment. im on a
+            <br />
+            mission to build a better future through technology, and im always
+            looking for new partners and investors to join us on this journey.
             <br />
             <br />
             <Link
@@ -76,11 +93,34 @@ export default function Uses() {
               read my note
             </Link>{' '}
           </Tool>
-          <Tool title="LLM">
-            Future of software is working with large language models (LLM) and
-            making sure the end-user uses it safely and model solve their. Such
-            as developing a custom model on stable diffusion to automate the
-            products images.
+          <Tool title="Large Language models">
+            Large Language models, theyre the future of technology. Theyre gonna
+            change the game, just like Elon did with Tesla and SpaceX. You see,
+            <br />
+            with language models, were not just talking about a new tool, were
+            talking about a whole new level of innovation. They have the ability
+            <br />
+            to generate high-quality text, music, and code, faster and more
+            efficiently than ever before. This is going to revolutionize the way
+            <br />
+            we design and build everything from software to images, videos, and
+            other forms of media. Think about it, with language models, we can
+            <br />
+            generate custom code or design a new product in a fraction of the
+            time it would normally take. Thats the kind of efficiency and
+            <br />
+            innovation that were talking about. Were not just automating routine
+            tasks, were enabling entirely new ways of designing and building
+            <br />
+            things. And you know, Im always about disrupting industries and
+            pushing the boundaries of whats possible. Thats what language models
+            <br />
+            are doing right now. They represent a paradigm shift in the way we
+            think about and interact with technology. And the possibilities,
+            <br />
+            theyre truly endless. So buckle up, folks. Language models are just
+            <br />
+            getting started and the future is looking brighter than ever.
           </Tool>
           <Tool title="LiftOff">
             the simple tools to build web/mobile apps faster with generative
