@@ -178,7 +178,7 @@ export default function Home({ articles }) {
             I’m the founder of raptr42, where we develop technologies that
             empower regular people to explore space on their own terms.
             <br />
-            <Link href="/future" className="no-underline hover:underline">
+            <Link href="/future" className="mt-2 no-underline hover:underline">
               read about what future im building
             </Link>
           </p>
