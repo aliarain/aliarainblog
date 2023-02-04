@@ -45,13 +45,18 @@ export default function Uses() {
             the public and have a clear user experience.{' '}
             <Link href="https://raptr42.com"> find more about us</Link>
           </Tool>
+          <Tool title="using ai to build better tools">
+            this is my main focus after raptr42, im building useful tools to
+            make the world of programming more easy to every other person by
+            building no-code tools and low code tools. i wrote a small blog post
+            for this you can read ere to get insights of what im building
+          </Tool>
           <Tool title="LLM">
             Future of software is working with large language models (LLM) and
             making sure the end-user uses it safely and model solve their. Such
             as developing a custom model on stable diffusion to automate the
             products images.
           </Tool>
-          <Tool title=""></Tool>
           <Tool title="LiftOff">
             the simple tools to build web/mobile apps faster with generative
             artificial intelligence. No need to have tons of developer working
