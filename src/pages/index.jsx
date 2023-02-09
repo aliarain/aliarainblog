@@ -177,7 +177,6 @@ export default function Home({ articles }) {
             I’m Ali, full stack developer and entrepreneur based in Pakistan.
             I’m the founder of raptr42, where we develop technologies that
             empower regular people to explore space on their own terms.
-            <br />
             <Link
               href="/future"
               className="mt-2 text-teal-500  no-underline hover:underline"
