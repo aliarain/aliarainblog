@@ -180,7 +180,7 @@ export default function Home({ articles }) {
             <br />
             <Link
               href="/future"
-              className="mt-2 bg-sky-500  no-underline hover:underline"
+              className="mt-2 text-teal-500  no-underline hover:underline"
             >
               read about what future im building
             </Link>
