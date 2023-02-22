@@ -41,13 +41,6 @@ export default function Document() {
       <Head>
         <script dangerouslySetInnerHTML={{ __html: modeScript }} />
         <script async src="https://www.googletagmanager.com/gtag/js?id=G-CNJH2P4EN0"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-CNJH2P4EN0');
-</script>
 
         <link rel="stylesheet" href="https://rsms.me/inter/inter.css"/>
       </Head>
