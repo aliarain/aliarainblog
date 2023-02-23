@@ -17,6 +17,7 @@
     "@next/mdx": "^12.2.3",
     "@sanity/cli": "^2.35.0",
     "@tailwindcss/typography": "^0.5.4",
+    "@vercel/analytics": "^0.1.10",
     "autoprefixer": "^10.4.7",
     "clsx": "^1.2.0",
     "fast-glob": "^3.2.11",
