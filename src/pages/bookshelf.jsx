@@ -1,5 +1,4 @@
 import Head from 'next/head'
-import Image from 'next/image'
 import { Card } from '@/components/Card'
 import { Section } from '@/components/Section'
 import { SimpleLayout } from '@/components/SimpleLayout'
@@ -41,7 +40,7 @@ export default function Uses() {
         <div className="space-y-20">
           <ToolsSection title="Books">
             <Tool>
-              
+            Superintelligence: Paths, Dangers, Strategies — Nick Bostrom
             </Tool>
             </ToolsSection>
         </div>
