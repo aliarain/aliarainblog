@@ -4,7 +4,8 @@ import { Section } from '@/components/Section'
 import { SimpleLayout } from '@/components/SimpleLayout'
 const bookshelf =[
 {name:"Super Intelligence",
-name:"i'll add later "},
+name:"i'll add later ",
+name:"nigga"},
 ]
 
 
