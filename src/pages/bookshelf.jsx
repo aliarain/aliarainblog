@@ -2,6 +2,9 @@ import Head from 'next/head'
 import { Card } from '@/components/Card'
 import { Section } from '@/components/Section'
 import { SimpleLayout } from '@/components/SimpleLayout'
+const bookshelf =[
+{name:""},
+]
 
 
 function ToolsSection({ children, ...props }) {
@@ -41,6 +44,7 @@ export default function Uses() {
       >
         <div className="space-y-20">
           <ToolsSection title="Books">
+            {bookshelf.map((books))}
             <Tool>
             Superintelligence: Paths, Dangers, Strategies — Nick Bostrom
             </Tool>
