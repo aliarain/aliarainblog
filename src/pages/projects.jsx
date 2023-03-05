@@ -11,11 +11,11 @@ import logoPlanetaria from '@/images/logos/planetaria.svg'
 
 const projects = [
   {
-    name: 'Ali Arain',
-    description: 'Created With Next.js, TailwindCSS, Using Sanity as CMS',
+    name: 'LiftUp AI',
+    description: 'Building Liftup to Revolutionize Software Development and Empower Innovators for a Better Future',
     link: {
-      href: 'http://aliarain.raptr42.com',
-      label: 'aliarain.raptr42.com',
+      href: 'http://liftup.raptr42.com',
+      label: 'liftup.raptr42.com',
     },
     logo: logoPlanetaria,
   },
