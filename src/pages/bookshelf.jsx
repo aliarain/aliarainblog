@@ -46,7 +46,7 @@ export default function Uses() {
         <div className="space-y-20">
           <ToolsSection title="Books">
             {bookshelf.map((books) => (
-          <Tool>{books.name}</Tool>    
+          <Tool key={books.name}>{books.name}</Tool>    
             ))}
             
             </ToolsSection>
