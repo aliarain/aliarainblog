@@ -3,6 +3,7 @@ import { Card } from '@/components/Card'
 import { Section } from '@/components/Section'
 import { SimpleLayout } from '@/components/SimpleLayout'
 
+
 function ToolsSection({ children, ...props }) {
   return (
     <Section {...props}>
@@ -12,6 +13,7 @@ function ToolsSection({ children, ...props }) {
     </Section>
   )
 }
+
 
 function Tool({ title,children }) {
   return (
@@ -41,6 +43,14 @@ export default function Uses() {
           <ToolsSection title="Books">
             <Tool>
             Superintelligence: Paths, Dangers, Strategies — Nick Bostrom
+            </Tool>
+            <Tool>
+Sapiens: A Brief History of Humankind — Yuval Noah Harari
+
+Troublemakers: Silicon Valley's Coming of Age — Leslie Berlin
+
+A Mathematician's Apology — G.H. Hardy
+
             </Tool>
             </ToolsSection>
         </div>
