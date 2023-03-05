@@ -3,7 +3,8 @@ import { Card } from '@/components/Card'
 import { Section } from '@/components/Section'
 import { SimpleLayout } from '@/components/SimpleLayout'
 const bookshelf =[
-{name:""},
+{name:"Super Intelligence",
+name:"i'll add later "},
 ]
 
 
@@ -44,18 +45,10 @@ export default function Uses() {
       >
         <div className="space-y-20">
           <ToolsSection title="Books">
-            {bookshelf.map((books))}
-            <Tool>
-            Superintelligence: Paths, Dangers, Strategies — Nick Bostrom
-            </Tool>
-            <Tool>
-Sapiens: A Brief History of Humankind — Yuval Noah Harari
-
-Troublemakers: Silicon Valley's Coming of Age — Leslie Berlin
-
-A Mathematician's Apology — G.H. Hardy
-
-            </Tool>
+            {bookshelf.map((books) => (
+          <Tool>{books.name}</Tool>    
+            ))}
+            
             </ToolsSection>
         </div>
       </SimpleLayout>
