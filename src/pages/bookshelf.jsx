@@ -3,9 +3,9 @@ import { Card } from '@/components/Card'
 import { Section } from '@/components/Section'
 import { SimpleLayout } from '@/components/SimpleLayout'
 const bookshelf =[
-{name:"Super Intelligence",
-name:"i'll add later ",
-name:"nigga"},
+  {name:"Super Intelligence"},
+{name:"i'll add later "},
+{name:"nigga"},
 ]
 
 
