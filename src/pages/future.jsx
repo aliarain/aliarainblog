@@ -122,6 +122,14 @@ export default function Uses() {
             mobile apps. With its ease of use and time-saving capabilities, its
             the perfect solution for anyone who wants to bring their product to
             market faster and more efficiently.
+            <br />
+            <br />
+            <Link
+              className="no-underline hover:underline"
+              href="https://aliarain.raptr42.com/notes/building-liftupai"
+            >
+              read my note
+            </Link>{' '}
           </Tool>
         </div>
       </SimpleLayout>
