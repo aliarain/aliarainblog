@@ -103,22 +103,22 @@ export default function Uses() {
             theyre truly endless. So buckle up, folks. Language models are just
             getting started and the future is looking brighter than ever.
           </Tool>
-          <Tool title="LiftOff">
-            LiftOff is the game-changer for building web and mobile
+          <Tool title="LiftUp">
+            LiftUp is the game-changer for building web and mobile
             applications. With its cutting-edge generative artificial
             intelligence technology, its revolutionizing the way developers
             work. Say goodbye to the days of having to hire a team of developers
-            and spend months working on a single project. LiftOff streamlines
+            and spend months working on a single project. LiftUp streamlines
             the development process and helps you launch your product faster and
             more efficiently. With its simple tools, you can now create
             high-quality apps without the need for extensive coding knowledge.
-            Whether youre a solo entrepreneur or a startup team, LiftOff
+            Whether youre a solo entrepreneur or a startup team, LiftUp
             empowers you to bring your ideas to life with ease. But thats not
-            all, LiftOffs AI-powered technology also helps you create more
+            all, LiftUps AI-powered technology also helps you create more
             advanced and unique apps. Say goodbye to generic designs and boring
-            interfaces. With LiftOff, you can create apps that stand out and
+            interfaces. With LiftUp, you can create apps that stand out and
             provide a unique and engaging user experience. In conclusion,
-            LiftOff is a must-have tool for anyone looking to build web and
+            LiftUp is a must-have tool for anyone looking to build web and
             mobile apps. With its ease of use and time-saving capabilities, its
             the perfect solution for anyone who wants to bring their product to
             market faster and more efficiently.
