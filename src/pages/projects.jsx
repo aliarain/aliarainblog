@@ -25,6 +25,13 @@ const projects = [
       'Service Based startup website built with passion and hard-work.',
     link: { href: 'https://raptr42.com/', label: 'raptr42.com' },
     logo: logoAnimaginary,
+  }, 
+  {
+    name: 'MyDubaiAdventures',
+    description:
+      'Highly Advance Full-Stack Web Built with Laravel 9.',
+    link: { href: 'https://mydubaiadventures.com//', label: 'mydubaiadventures.com/' },
+    logo: logoAnimaginary,
   },
   {
     name: 'HelioStream',
