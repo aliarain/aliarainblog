@@ -15,6 +15,13 @@ import {
 } from '@/icons/icons'
 import image1 from '@/images/photos/image-1.jpg'
 import image2 from '@/images/photos/image-2.jpg'
+import { Card } from '@/components/Card'
+import { SimpleLayout } from '@/components/SimpleLayout'
+import logoAnimaginary from '@/images/logos/animaginary.svg'
+import logoCosmos from '@/images/logos/cosmos.svg'
+import logoHelioStream from '@/images/logos/helio-stream.svg'
+import logoOpenShuttle from '@/images/logos/open-shuttle.svg'
+import logoPlanetaria from '@/images/logos/planetaria.svg'
 import image3 from '@/images/photos/image-3.jpg'
 import image4 from '@/images/photos/image-4.jpg'
 import image5 from '@/images/photos/image-5.jpg'
@@ -39,6 +46,55 @@ function Article({ article }) {
     </Card>
   )
 }
+
+
+
+const projects = [
+  {
+    name: 'LiftUp AI',
+    description: 'Building Liftup to Revolutionize Software Development and Empower Innovators for a Better Future',
+    link: {
+      href: 'http://liftup.raptr42.com',
+      label: 'liftup.raptr42.com',
+    },
+    logo: logoPlanetaria,
+  },
+  {
+    name: 'raptr42',
+    description:
+      'Service Based startup website built with passion and hard-work.',
+    link: { href: 'https://raptr42.com/', label: 'raptr42.com' },
+    logo: logoAnimaginary,
+  }, 
+  {
+    name: 'MyDubaiAdventures',
+    description:
+      'Highly Advance Full-Stack Web Built with Laravel 9.',
+    link: { href: 'https://mydubaiadventures.com//', label: 'mydubaiadventures.com/' },
+    logo: logoAnimaginary,
+  },
+  {
+    name: 'HelioStream',
+    description:
+      'Real-time video streaming library, optimized for interstellar transmission.',
+    link: { href: '#', label: 'github.com' },
+    logo: logoHelioStream,
+  },
+  {
+    name: 'cosmOS',
+    description:
+      'The operating system that powers our Planetaria space shuttles.',
+    link: { href: '#', label: 'github.com' },
+    logo: logoCosmos,
+  },
+  {
+    name: 'OpenShuttle',
+    description:
+      'The schematics for the first rocket I designed that successfully made it to orbit.',
+    link: { href: '#', label: 'github.com' },
+    logo: logoOpenShuttle,
+  },
+]
 
 function SocialLink({ icon: Icon, ...props }) {
   return (
