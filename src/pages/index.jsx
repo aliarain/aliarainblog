@@ -234,8 +234,8 @@ export default function Home({ articles }) {
             astrophysicist.
           </h1>
           <p className="mt-6 text-base text-zinc-600 dark:text-zinc-400">
-            Ali Arain is the founder of raptr42, a high-tech startup that leverages generative AI to create impactful digital products to solve real-world problems.
-            With a love for space and AI, he\'s committed to using technology to make a positive impact and constantly pushing the boundaries of whats possible."
+            Ali Arain is the founder of raptr42. a high-tech startup that leverages generative AI to create impactful digital products to solve real-world problems.
+            With a love for space and AI. he is committed to using technology to make a positive impact and constantly pushing the boundaries of whats possible.
             <br />
             <Link
               href="/future"
