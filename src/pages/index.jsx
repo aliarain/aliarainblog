@@ -24,7 +24,6 @@ import image3 from '@/images/photos/image-3.jpg'
 import image4 from '@/images/photos/image-4.jpg'
 import image5 from '@/images/photos/image-5.jpg'
 import logoAirbnb from '@/images/logos/airbnb.svg'
-import logoPlanetaria from '@/images/logos/planetaria.svg'
 import { generateRssFeed } from '@/lib/generateRssFeed'
 import { getAllArticles } from '@/lib/getAllArticles'
 import { formatDate } from '@/lib/formatDate'
@@ -235,9 +234,8 @@ export default function Home({ articles }) {
             astrophysicist.
           </h1>
           <p className="mt-6 text-base text-zinc-600 dark:text-zinc-400">
-            I’m Ali, full stack developer and entrepreneur based in Pakistan.
-            I’m the founder of raptr42, where we develop technologies that
-            empower regular people to explore space on their own terms.
+            Ali Arain is the founder of raptr42, a high-tech startup that leverages generative AI to create impactful digital products to solve real-world problems.
+            With a love for space and AI, he's committed to using technology to make a positive impact and constantly pushing the boundaries of what's possible."
             <Link
               href="/future"
               className="mt-2 text-teal-500  no-underline hover:underline"
