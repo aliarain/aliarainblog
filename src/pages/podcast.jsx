@@ -44,10 +44,10 @@ export default function Speaking() {
         <div className="space-y-20">
           <SpeakingSection title="Podcasts">
             <Appearance
-              href="#"
-              title="Competition is for losers."
+              href="https://www.youtube.com/watch?v=KoOBwcegw6E"
+              title="coding at the speed of thought #1 ali\'s podcast."
               description="How we used world-class visual design to attract a great team, win over customers, and get more press for raptr42."
-              event="being ali"
+              event="alis podcast"
               cta="Listen to podcast"
             />
           </SpeakingSection>
