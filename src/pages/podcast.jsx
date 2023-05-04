@@ -29,7 +29,7 @@ export default function Speaking() {
   return (
     <>
       <Head>
-        <title>Podcastwith- Ali Arain</title>
+        <title>Podcast with- Ali Arain</title>
         <meta
           name="description"
           content="I have started a podcast to share the things I know about development, design, entrepreneurship and life in general.
