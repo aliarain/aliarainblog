@@ -1,8 +1,19 @@
 # aliarain personal portfolio site 
 my portfolio is built using [Tailwind CSS](https://tailwindcss.com) and [Next.js](https://nextjs.org).
 
+### Task List
+
+- [ ] Create Forms With SendGrid API
+- [ ] Connect Subcribe Form With ConvertKit
+- [ ] Config Site witth next-seo plugin 
+- [ ] Create notes advance funtionality
+- [ ] explore more features to be added
+
+
 ## delete notes folder before using this template
 ## to use this site as your next template try these steps
+
+
 
 To get started with this template, first install the npm dependencies:
 
