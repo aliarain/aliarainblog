@@ -7,6 +7,7 @@
     "url": "https://github.com/aliarain/aliarainblog.git"
   },
   "scripts": {
+    "watch": "next-remote-watch ./content/**/*.md",
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
