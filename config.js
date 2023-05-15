@@ -7,7 +7,7 @@
  */
 
 export const siteMetaData = {
-    siteUrl: process.env.NEXT_PUBLIC_SITE_URL || process.env.VERCEL_URL || 'http://localhost:3000',
+    siteUrl: process.env.NEXT_PUBLIC_SITE_URL || process.env.VERCEL_URL || 'https://localhost:3000',
     authorName: 'Ali Arain',
     siteName: 'Ali Arain',
     defaultTitle: 'Ali Arain Personal Site',
@@ -17,6 +17,15 @@ export const siteMetaData = {
     locale: 'en_US',
     twitter: {
       handle: '@realaliarain',
+      cardType: 'summary_large_image',
     },
   }
   
+
+  export const mdxConfig = {
+    publicdir: 'public',
+    pagesdir: 'content',
+    collection: ['./notes' ,'/projects'],
+    remarkPlugins:[],
+    rehypePlugins:[],
+  }
