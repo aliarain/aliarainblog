@@ -1,18 +1,24 @@
 import ReactDOMServer from 'react-dom/server'
 import { Feed } from 'feed'
 import { mkdir, writeFile } from 'fs/promises'
-
 import { getAllArticles } from './getAllArticles'
+import { siteMetaData } from '../../config'
 
-export async function generateRssFeed() {
-  let articles = await getAllArticles()
-  let siteUrl = process.env.NEXT_PUBLIC_SITE_URL
-  let author = {
-    name: 'AlïArain',
-    email: 'aliarain@raptr42.com',
+export async function generateRssFeed(rsspath, records) {
+  const {siteUrl ,  defaultTitle, description ,siteName ,email, twitter, authorName} = siteMetaData
+
+  const date = new Date()
+
+  const  articles = await getAllArticles()
+
+  const  author = {
+    name: authorName,
+    email: email,
+    link: twitter && twitter.handle ? `https://twitter.com/${twitter.handle.replace('@', '')}`: siteUrl
   }
 
-  let feed = new Feed({
+// Creating the feed
+  const feed = new Feed({
     title: author.name,
     description: 'ali arain blog',
     author,
@@ -21,6 +27,7 @@ export async function generateRssFeed() {
     image: `${siteUrl}/favicon.ico`,
     favicon: `${siteUrl}/favicon.ico`,
     copyright: `All rights reserved ${new Date().getFullYear()}`,
+    updated: date,
     feedLinks: {
       rss2: `${siteUrl}/rss/feed.xml`,
       json: `${siteUrl}/rss/feed.json`,
