@@ -31,7 +31,7 @@ const projects = [
     name: 'remotedeck.tech',
     description:
       'a complete saas job platform built for making hiring simple.',
-    link: { href: 'https://remmotedeck.tech/', label: 'remotedeck.tech' },
+    link: { href: 'https://remotedeck.tech/', label: 'remotedeck.tech' },
     logo: logoRemotedeck,
   },
   {
