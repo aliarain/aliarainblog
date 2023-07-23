@@ -5,6 +5,7 @@ import { Card } from '@/components/Card'
 import { SimpleLayout } from '@/components/SimpleLayout'
 import logoAnimaginary from '@/images/logos/animaginary.svg'
 import logoCosmos from '@/images/logos/cosmos.svg'
+import logoRemotedeck from '@/images/logos/remotedeck.svg'
 import logoHelioStream from '@/images/logos/helio-stream.svg'
 import logoOpenShuttle from '@/images/logos/open-shuttle.svg'
 import logoPlanetaria from '@/images/logos/planetaria.svg'
@@ -25,7 +26,14 @@ const projects = [
       'Service Based startup website built with passion and hard-work.',
     link: { href: 'https://raptr42.com/', label: 'raptr42.com' },
     logo: logoAnimaginary,
-  }, 
+  },
+  {
+    name: 'remotedeck.tech',
+    description:
+      'a complete saas job platform built for making hiring simple.',
+    link: { href: 'https://remmotedeck.tech/', label: 'remotedeck.tech' },
+    logo: logoRemotedeck,
+  },
   {
     name: 'MyDubaiAdventures',
     description:
