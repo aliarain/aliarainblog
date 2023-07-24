@@ -1,0 +1,144 @@
+[
+    {
+      "legend": "Your contact information",
+      "columns": 3,
+      "fields": [
+        {
+          "type": "text",
+          "name": "first-name",
+          "placeholder": "First name",
+          "autoComplete": "given-name",
+          "required": true
+        },
+        {
+          "type": "text",
+          "name": "last-name",
+          "placeholder": "Last name",
+          "autoComplete": "family-name",
+          "required": true
+        },
+        {
+          "type": "text",
+          "name": "email",
+          "placeholder": "Email address",
+          "autoComplete": "email",
+          "inputType": "email",
+          "required": true
+        },
+        {
+          "type": "text",
+          "name": "company",
+          "placeholder": "Company Name",
+          "autoComplete": "company"
+        },
+        {
+          "type": "text",
+          "name": "phone",
+          "placeholder": "Phone Number",
+          "autoComplete": "phone"
+        },
+        {
+          "type": "select",
+          "name": "country",
+          "autoComplete": "country-name",
+          "defaultValue": "Select Country",
+          "options": [
+            {
+              "label": "Select Country",
+              "value": "",
+              "disabled": true
+            },
+            {
+              "label": "United States",
+              "value": "United States"
+            },
+            {
+              "label": "Canada",
+              "value": "Canada"
+            },
+            {
+              "label": "Germany",
+              "value": "Germany"
+            },
+            {
+              "label": "France",
+              "value": "France"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "legend": "What services do you need for your project?",
+      "columns": 3,
+      "fields": [
+        {
+          "type": "checkbox",
+          "name": "project-type[Website Development]",
+          "label": "Website Development"
+        },
+        {
+          "type": "checkbox",
+          "name": "project-type[App Development]",
+          "label": "App Development"
+        },
+        {
+          "type": "checkbox",
+          "name": "project-type[Design System]",
+          "label": "Design System"
+        },
+        {
+          "type": "checkbox",
+          "name": "project-type[Website Migration]",
+          "label": "Website Migration"
+        },
+        {
+          "type": "checkbox",
+          "name": "project-type[E-commerce Site]",
+          "label": "E-commerce Site"
+        },
+        {
+          "type": "checkbox",
+          "name": "project-type[Performance Evaluation]",
+          "label": "Performance Evaluation"
+        }
+      ]
+    },
+    {
+      "legend": "How much is the anticipated budget?",
+      "columns": 3,
+      "fields": [
+        {
+          "type": "radio",
+          "name": "budget",
+          "value": "Less than $2,000",
+          "label": "Less than $2,000"
+        },
+        {
+          "type": "radio",
+          "name": "budget",
+          "value": "$2,000 - $10,000",
+          "label": "$2,000 - $10,000"
+        },
+        {
+          "type": "radio",
+          "name": "budget",
+          "value": "More than $10,000",
+          "label": "More than $10,000"
+        }
+      ]
+    },
+    {
+      "legend": "Tell me about your project",
+      "columns": 1,
+      "fields": [
+        {
+          "type": "textarea",
+          "name": "message",
+          "placeholder": "Project description",
+          "rows": 3
+        }
+      ]
+    }
+  ]
+  
