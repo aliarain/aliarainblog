@@ -9,7 +9,7 @@ export const mailConfig = {
     contactForm: {
       inputs: require('./content/contact-form.json'),
       recipient: 'RECIPIENT@EXAMPLE.com',
-      sender: 'SENDER@EXAMPLE.com',
+      sender: 'aliarain@raptr42.com',
       subject: 'EMAIL NOTIFICATION SUBJECT',
     },
   }

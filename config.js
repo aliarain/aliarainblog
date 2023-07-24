@@ -12,7 +12,7 @@ export const siteMetaData = {
     siteName: 'Ali Arain',
     defaultTitle: 'Ali Arain Personal Site',
     titleTemplate: 'Ali Arain | %s',
-    description: 'A short description goes here.',
+    description: 'foudner raptr42 , building ai products to sovle problems.',
     email: 'aliarain@raptr42.com',
     locale: 'en_US',
     twitter: {
