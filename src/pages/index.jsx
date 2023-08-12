@@ -246,7 +246,7 @@ export default function Home({ articles }) {
           </h1>
           <p className='mt-6 text-base text-white-600 dark:text-white-300'>
             <Link href='/notes/remotedeck'
-            className='mt-2 text-teal-400 no-underline hover:underline'> i launched a remote job platofrm. check out here
+            className='mt-2 text-teal-400 no-underline hover:underline'> i launched a remote job platform for developer nad founder. click here to find out more.
             </Link>
           </p>
           <p className="mt-6 text-base text-zinc-600 dark:text-zinc-400">
