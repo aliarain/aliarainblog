@@ -18,6 +18,7 @@ import image2 from '@/images/photos/image-2.jpg'
 import logoAnimaginary from '@/images/logos/animaginary.svg'
 import logoCosmos from '@/images/logos/cosmos.svg'
 import logoHelioStream from '@/images/logos/helio-stream.svg'
+import remotedeck from '@/images/logos/remotedeck.svg'
 import logoOpenShuttle from '@/images/logos/open-shuttle.svg'
 import logoPlanetaria from '@/images/logos/planetaria.svg'
 import image3 from '@/images/photos/image-3.jpg'
@@ -112,8 +113,18 @@ function Resume() {
   let resume = [
     {
       company: 'raptr42',
-      title: 'Full Stack Developer',
+      title: 'Founder',
       logo: logoPlanetaria,
+      start: '2022',
+      end: {
+        label: 'Present',
+        dateTime: new Date().getFullYear(),
+      },
+    },
+    {
+      company: 'remotedeck.tech',
+      title: 'Founder',
+      logo: remotedeck.svg,
       start: '2022',
       end: {
         label: 'Present',
@@ -235,7 +246,7 @@ export default function Home({ articles }) {
           </h1>
           <p className='mt-6 text-base text-white-600 dark:text-white-300'>
             <Link href='/notes/remotedeck'
-            className='mt-2 text-teal-400 no-underline hover:underline'> i launched a remote job platofrm. check out here 
+            className='mt-2 text-teal-400 no-underline hover:underline'> i launched a remote job platofrm. check out here
             </Link>
           </p>
           <p className="mt-6 text-base text-zinc-600 dark:text-zinc-400">
