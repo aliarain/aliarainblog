@@ -58,7 +58,7 @@ export default function Uses() {
             <br />
             <br />
             <Link
-              className="no-underline hover:underline"
+              className="text-teal-400 no-underline hover:underline"
               href="https://raptr42.com"
             >
               find more about us
