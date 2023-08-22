@@ -250,8 +250,8 @@ export default function Home({ articles }) {
             </Link>
           </p>
           <p className="mt-6 text-base text-zinc-600 dark:text-zinc-400">
-            I'm the founder of raptr42. a service-base startup that provide web/app development services that solve real-world probelms.
-            With a love for space and AI. I'm committed to using technology to make a positive impact and constantly pushing the boundaries of whats possible.
+            Im the founder of raptr42. a service-base startup that provide web/app development services that solve real-world probelms.
+            With a love for space and AI. Im committed to using technology to make a positive impact and constantly pushing the boundaries of whats possible.
             <br />
             <Link
               href="/future"
