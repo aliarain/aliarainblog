@@ -241,7 +241,7 @@ export default function Home({ articles }) {
       <Container className="mt-9">
         <div className="max-w-2xl">
           <h1 className="text-4xl font-bold tracking-tight text-zinc-800 dark:text-zinc-100 sm:text-5xl">
-            engineer from heart <br /> founder raptr42, and a noob rocket scientist, 
+            full stack developer<br /> founder raptr42, and aerospace engineer. 
             astrophysicist.
           </h1>
           <p className='mt-6 text-base text-white-600 dark:text-white-300'>
@@ -250,8 +250,8 @@ export default function Home({ articles }) {
             </Link>
           </p>
           <p className="mt-6 text-base text-zinc-600 dark:text-zinc-400">
-            Ali Arain is the founder of raptr42. a high-tech startup that leverages generative AI to create impactful digital products to solve real-world problems.
-            With a love for space and AI. he is committed to using technology to make a positive impact and constantly pushing the boundaries of whats possible.
+            I'm the founder of raptr42. a service-base startup that provide web/app development services that solve real-world probelms.
+            With a love for space and AI. I'm committed to using technology to make a positive impact and constantly pushing the boundaries of whats possible.
             <br />
             <Link
               href="/future"

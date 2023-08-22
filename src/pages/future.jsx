@@ -77,7 +77,7 @@ export default function Uses() {
             <br />
             <br />
             <Link
-              className="no-underline hover:underline"
+              className="text-teal-400 no-underline hover:underline"
               href="https://aliarain.raptr42.com/notes/changing-world-with-ai"
             >
               read my note
@@ -125,7 +125,7 @@ export default function Uses() {
             <br />
             <br />
             <Link
-              className="no-underline hover:underline"
+              className="no-underline text-teal-400 hover:underline "
               href="https://aliarain.raptr42.com/notes/building-liftupai"
             >
               read my note
