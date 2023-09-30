@@ -40,8 +40,8 @@ export default function Document() {
     <Html className="h-full antialiased" lang="en">
       <Head>
         <script dangerouslySetInnerHTML={{ __html: modeScript }} />
-        <script async src="https://www.googletagmanager.com/gtag/js?id=G-CNJH2P4EN0"></script>
 
+        <script async src="https://umami-phi-fawn.vercel.app/script.js" data-website-id="9ac5c9d0-4a1e-418b-8c9f-2badf1f76d0d"></script>
         <link rel="stylesheet" href="https://rsms.me/inter/inter.css"/>
       </Head>
       <body className="flex h-full flex-col bg-zinc-50 dark:bg-black">
