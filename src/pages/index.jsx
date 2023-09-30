@@ -1,5 +1,6 @@
 import Image from 'next/future/image'
 import Head from 'next/head'
+import Script from 'next/script'
 import Link from 'next/link'
 import clsx from 'clsx'
 import { Button } from '@/components/Button'
@@ -232,6 +233,7 @@ export default function Home({ articles }) {
   return (
     <>
       <Head>
+        <Script async src="https://umami-phi-fawn.vercel.app/script.js" data-website-id="9ac5c9d0-4a1e-418b-8c9f-2badf1f76d0d"></Script>
         <title>ali arain</title>
         <meta
           name="description"
