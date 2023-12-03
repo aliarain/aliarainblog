@@ -233,13 +233,13 @@ export default function Home({ articles }) {
   return (
     <>
       <Head>
-        <Script async src="https://umami-phi-fawn.vercel.app/script.js" data-website-id="9ac5c9d0-4a1e-418b-8c9f-2badf1f76d0d"></Script>
         <title>ali arain</title>
         <meta
           name="description"
           content="I’m Ali, a software developer and entrepreneur based in Pakistan."
         />
       </Head>
+      <Script async src="https://umami-phi-fawn.vercel.app/script.js" data-website-id="9ac5c9d0-4a1e-418b-8c9f-2badf1f76d0d"></Script>
       <Container className="mt-9">
         <div className="max-w-2xl">
           <h1 className="text-4xl font-bold tracking-tight text-zinc-800 dark:text-zinc-100 sm:text-5xl">
