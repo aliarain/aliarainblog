@@ -236,7 +236,7 @@ export default function Home({ articles }) {
         <title>ali arain</title>
         <meta
           name="description"
-          content="I’m Ali, a software developer and entrepreneur based in Pakistan."
+          content="Im Ali, a software developer and entrepreneur based in Pakistan."
         />
       </Head>
       <Script async src="https://umami-phi-fawn.vercel.app/script.js" data-website-id="9ac5c9d0-4a1e-418b-8c9f-2badf1f76d0d"></Script>
