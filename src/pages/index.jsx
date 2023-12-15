@@ -67,7 +67,7 @@ const projects = [
     name: 'MyDubaiAdventures',
     description:
       'Highly Advance Full-Stack Web Built with Laravel 9.',
-    link: { href: 'https://mydubaiadventures.com//', label: 'mydubaiadventures.com/' },
+    link: { href: 'https://mydubaiadventures.com/', label: 'mydubaiadventures.com/' },
     logo: logoAnimaginary,
   },
   {
