@@ -36,8 +36,8 @@ export default function Uses() {
       </Head>
       <SimpleLayout
         title="the future i'm building."
-        intro="this pages is a list of things i'm currently building or have a plan to build a them.
-        most of my future startups will be backed by open source generative machine learning models."
+        intro="this pages is a list of things i'm currently building.
+        most of my work will be backed by open source generative ai models."
       >
         <div className="space-y-10">
           <Tool title="raptr42">
@@ -78,7 +78,7 @@ export default function Uses() {
             <br />
             <Link
               className="text-teal-400 no-underline hover:underline"
-              href="https://aliarain.raptr42.com/notes/changing-world-with-ai"
+              href="https://aliarain.com/notes/changing-world-with-ai"
             >
               read my note
             </Link>{' '}
@@ -126,7 +126,7 @@ export default function Uses() {
             <br />
             <Link
               className="no-underline text-teal-400 hover:underline "
-              href="https://aliarain.raptr42.com/notes/building-liftupai"
+              href="https://aliarain.com/notes/building-liftupai"
             >
               read my note
             </Link>{' '}
