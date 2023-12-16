@@ -28,7 +28,7 @@ import image5 from '@/images/photos/image-5.jpg'
 import logoAirbnb from '@/images/logos/airbnb.svg'
 import { generateRssFeed } from '@/lib/generateRssFeed'
 import { getAllArticles } from '@/lib/getAllArticles'
-import { formatDate } from '@/lib/formatDate'
+// import { formatDate } from '@/lib/formatDate'
 import { Newsletter } from '@/components/newsletter'
 
 function Article({ article }) {
