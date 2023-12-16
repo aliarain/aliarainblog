@@ -8,7 +8,7 @@ export const mailConfig = {
     },
     contactForm: {
       inputs: require('./content/contact-form.json'),
-      recipient: 'RECIPIENT@EXAMPLE.com',
+      recipient: 'realaliarain@gmail.com',
       sender: 'SENDER@EXAMPLE.com',
       subject: 'EMAIL NOTIFICATION SUBJECT',
     },
