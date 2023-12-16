@@ -13,7 +13,7 @@ async function importProjects(projectFilename) {
 }
 
 export async function getAllProjects() {
-  let articleFilenames = await glob(['*.mdx', '*/index.mdx'], {
+  let projectFilenames = await glob(['*.mdx', '*/index.mdx'], {
     cwd: path.join(process.cwd(), 'src/pages/projects'),
   })
 
