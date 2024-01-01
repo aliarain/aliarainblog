@@ -258,7 +258,7 @@ export default function Home({ articles }) {
               href="/future"
               className="mt-2 text-teal-500  no-underline hover:underline"
             >
-              read about what future im building
+              future im creating
             </Link>
           </p>
           <Button href="/about" type="submit" className=" mt-3 flex-none">
