@@ -35,7 +35,7 @@ function Article({ article }) {
     <Card as="article">
       <Card.Title href={`/notes/${article.slug}`}>{article.title}</Card.Title>
       <Card.Eyebrow as="time" dateTime={article.date} decorate>
-        {/* {formatDate(article.date)} */}
+        {formatDate(article.date)}
       </Card.Eyebrow>
       <Card.Description>{article.description}</Card.Description>
       <Card.Cta>Read article</Card.Cta>
@@ -118,7 +118,7 @@ function Resume() {
       start: '2022',
       end: {
         label: 'Present',
-        // dateTime: new Date().getFullYear(),
+        dateTime: new Date().getFullYear(),
       },
     },
     {
@@ -128,7 +128,7 @@ function Resume() {
       start: '2022',
       end: {
         label: 'Present',
-        // dateTime: new Date().getFullYear(),
+        dateTime: new Date().getFullYear(),
       },
     },
     {
@@ -138,7 +138,7 @@ function Resume() {
       start: '2019',
       end: {
         label: 'Present',
-        // dateTime: new Date().getFullYear(),
+        dateTime: new Date().getFullYear(),
       },
     },
     {
@@ -148,7 +148,7 @@ function Resume() {
       start: '2018',
       end: {
         label: 'Present',
-        // dateTime: new Date().getFullYear(),
+        dateTime: new Date().getFullYear(),
       },
     },
   ]
