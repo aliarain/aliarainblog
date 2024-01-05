@@ -29,13 +29,14 @@ import logoAirbnb from '@/images/logos/airbnb.svg'
 import { generateRssFeed } from '@/lib/generateRssFeed'
 import { getAllArticles } from '@/lib/getAllArticles'
 import { Newsletter } from '@/components/newsletter'
+import { formatDate } from '@/lib/formatDate'
 
 function Article({ article }) {
   return (
     <Card as="article">
       <Card.Title href={`/notes/${article.slug}`}>{article.title}</Card.Title>
       <Card.Eyebrow as="time" dateTime={article.date} decorate>
-        {formatDate(article.date)}
+       {formatDate(article.date)}
       </Card.Eyebrow>
       <Card.Description>{article.description}</Card.Description>
       <Card.Cta>Read article</Card.Cta>
